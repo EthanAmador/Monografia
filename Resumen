@@ -1,0 +1,12 @@
+RESUMEN. 
+
+las tecnicas de evasion, no son mas que tecnicas que logran vulnerar o confundir a sistemas de control de trafico de red como los IDS (Sistemas de detección de intrusos), que son utilizados para alertar a administradores de sistemas ante cualquier actividad sospecha. [Mas que todo es tratar de hacer el menor ruido posible en la red, la cual lleva a usar protocolos comunes para levantar la menor sospecha posible].
+
+
+De igual forma que sucede con los IDS, tambien se puede llegar a confundir a los IPS (Sistema de prevencíon de instrusion), que son utilizados para deter cualquier actividad sospechosa. [hay que tener mucho cuidado con estos, ya que tienen la pacacidad de alertar y deter cualquier actividad sospechosa].
+
+
+
+y todas tecnicas de monitoreo de redes por medio del trafico. 
+
+Esta evasion se considera exitosa cuando la actividad sospechosa no es detectada por 
